@@ -1,2 +1,2 @@
-# MVA
+# TOOLS
 Minimum variance analysis
